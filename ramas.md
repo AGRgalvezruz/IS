@@ -1,4 +1,4 @@
-##Ramas o Branches
+#Ramas o Branches
 
 Es la forma para separar la línea actual de desarrollo con respecto a la principal. Normalmente representan versiones del software que posteriormente son integradas a la línea principal.
 
@@ -43,3 +43,25 @@ Es la forma para separar la línea actual de desarrollo con respecto a la princi
 >Resolver con ictos (se suele hacer manualmente):
 
 `git  merge  --abort`
+
+>Almacenar cambios temporales:
+
+`git  stash  save "Mensaje"`
+
+>Listar cambios:
+
+`git  stash  list`
+
+>Ver contenido de un cambio temporal:
+
+`git  stash  show -p nombre_stash`
+
+>Eliminar un cambio temporal:
+
+`git  stash  drop  nombre_stash`
+
+>Aplicar cambio del stash:
+
+`git  stash  apply  nombre_stash`
+
+`git  stash  pop  nombre_stash`
