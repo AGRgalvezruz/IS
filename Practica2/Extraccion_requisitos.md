@@ -77,3 +77,81 @@
 ----
 
 
+## Datos a almacenar en la aplicación
+>Se almacenarán los siguientes datos en la aplicación sobre los alumnos registrados:
+
+1. DNI
+2. Nombre
+3. Apellidos
+4. Número de teléfono
+5. Correo electrónico
+6. Dirección
+7. Código postal
+8. Curso mas alto matriculado
+9. Fecha de nacimiento
+10. Equipo al que pertenece
+11. Líder de equipo
+
+----
+## Requisitos Funcionales
+
+* **RF-1:** El sistema debe poder listar los contactos de los alumnos (ordenado o por nombre o por DNI o por apellido o por curso mas alto matriculado de forma ascendente o descendente)
+
+* **RF-2:** Se deberá poder visualizar los datos de los alumnos
+
+* **RF-3:** El sistema podrá buscar un alumnos por DNI o por apellido
+
+* **RF-4:** El sistema debe poder editar los datos de un alumno
+
+* **RF-5:** El sistema debe permitir la búsqueda por grupo
+
+* **RF-6:** El sistema debe permitir eliminar un alumno tanto por DNI como por apellido
+
+* **RF-7:** Los campos obligatorios sobre la información de los contactos son todos menos equipo y si son líder o no
+
+* **RF-8:** En caso de que una búsqueda por apellidos y aparezcan varios registros, dará opción a seleccionar el deseado
+
+* **RF-9:** El sistema debe poder crear copias de seguridad, guardarlas y cargarlas
+
+* **RF-10:** El sistema mostrará la información mediante la linea de comandos o html o ambas
+
+----
+
+## Requisitos No Funcionales
+
+* **RNF-1:** El proyecto se tiene que implementar en C++
+
+* **RNF-2:** La documentación debe de realizarse en lenguaje Markdown
+
+* **RNF-3:** El sistema debe funcionar en Linux
+
+* **RNF-4:** El sistema deberá incorporar como interfaz gráfica la linea de comandos y como opcional cualquiera
+
+* **RNF-5:** La seguridad de los datos se delega al sistema operativo
+
+* **RNF-6:** Si se añade un DNI o correo ya existente, el software dará un aviso de que no se puede insertar o modificar dicho alumno
+
+
+* **RNF-7:** Al iniciar el programa se mostrará un menú
+
+* **RNF-8:** La capacidad máxima de alumnos registrados será de 150
+
+* **RNF-9:** Un grupo puede tener como máximo un líder
+
+
+----
+
+## Prioridad de requisitos funcionales:
+
+* **Prioridad 1:** RF-7.
+
+* **Prioridad 2:** RF-9.
+
+* **Prioridad 3:** RF-8.
+
+* **Prioridad 4:** RF-4, RF-6.
+
+* **Prioridad 5:** RF-1, RF-2, RF-3, RF-5, RF-10.
+
+----
+
