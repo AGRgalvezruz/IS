@@ -99,21 +99,17 @@
 
 * **RF-2:** Se deberá poder visualizar los datos de los alumnos
 
-* **RF-3:** El sistema podrá buscar un alumnos por DNI o por apellido
+* **RF-3:** El sistema podrá buscar un alumnos por DNI, apellido o grupo
 
 * **RF-4:** El sistema debe poder editar los datos de un alumno
 
-* **RF-5:** El sistema debe permitir la búsqueda por grupo
+* **RF-5:** El sistema debe permitir eliminar un alumno tanto por DNI como por apellido
 
-* **RF-6:** El sistema debe permitir eliminar un alumno tanto por DNI como por apellido
+* **RF-6:** Los campos obligatorios sobre la información de los contactos son todos menos equipo y si son líder o no
 
-* **RF-7:** Los campos obligatorios sobre la información de los contactos son todos menos equipo y si son líder o no
+* **RF-7:** El sistema debe poder crear copias de seguridad, guardarlas y cargarlas
 
-* **RF-8:** En caso de que una búsqueda por apellidos y aparezcan varios registros, dará opción a seleccionar el deseado
-
-* **RF-9:** El sistema debe poder crear copias de seguridad, guardarlas y cargarlas
-
-* **RF-10:** El sistema mostrará la información mediante la linea de comandos o html o ambas
+* **RF-8:** El sistema mostrará la información mediante la linea de comandos o html o ambas
 
 ----
 
@@ -131,27 +127,28 @@
 
 * **RNF-6:** Si se añade un DNI o correo ya existente, el software dará un aviso de que no se puede insertar o modificar dicho alumno
 
+* **RNF-7:** En caso de que una búsqueda por apellidos y aparezcan varios registros, dará opción a seleccionar el deseado
 
-* **RNF-7:** Al iniciar el programa se mostrará un menú
+* **RNF-8:** Al iniciar el programa se mostrará un menú
 
-* **RNF-8:** La capacidad máxima de alumnos registrados será de 150
+* **RNF-9:** La capacidad máxima de alumnos registrados será de 150
 
-* **RNF-9:** Un grupo puede tener como máximo un líder
+* **RNF-10:** Un grupo puede tener como máximo un líder
 
 
 ----
 
 ## Prioridad de requisitos funcionales:
 
-* **Prioridad 1:** RF-7.
+* **Prioridad 1:** RF-6.
 
-* **Prioridad 2:** RF-9.
+* **Prioridad 2:** RF-7.
 
-* **Prioridad 3:** RF-8.
+* **Prioridad 3:** RF-3.
 
-* **Prioridad 4:** RF-4, RF-6.
+* **Prioridad 4:** RF-4, RF-5.
 
-* **Prioridad 5:** RF-1, RF-2, RF-3, RF-5, RF-10.
+* **Prioridad 5:** RF-1, RF-2, RF-8.
 
 ----
 
