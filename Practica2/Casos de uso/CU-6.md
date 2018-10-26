@@ -1,5 +1,5 @@
 #### Guardar copias de seguridad
-**ID**:007  
+**ID**:006  
 **Breve descripción:**
 El sistema debe permitir al usuario guardar  en ficheros las copias de seguridad del listado de los alumnos.
 

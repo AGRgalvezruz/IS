@@ -1,6 +1,5 @@
 #### Editar alumno
-
-**ID**: 004  
+**ID**: 003  
 **Breve descripción**: El sistema debe permitir al usuario la opcion de editar un alumno.
 
 **Actores principales**: Usuario  

@@ -1,6 +1,5 @@
 #### Eliminar alumno
-
-**ID**: 006  
+**ID**: 004  
 **Breve descripción**: El sistema debe permitir eliminar un alumno del listado.
 
 **Actores principales**: Usuario  

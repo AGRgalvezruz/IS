@@ -1,6 +1,5 @@
 #### Insertar alumno
-
-**ID**: 006  
+**ID**: 005  
 **Breve descripción**: El sistema debe poder insertar los datos de alumnos.
 
 **Actores principales**: Usuario  

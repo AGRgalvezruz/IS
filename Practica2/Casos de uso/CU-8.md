@@ -1,5 +1,5 @@
 #### Buscar por grupo
-**ID**:009  
+**ID**:008  
 **Breve descripción:**
 El sistema debe permitir al usuario buscar alumnos por el grupo al que pertenecen.
 

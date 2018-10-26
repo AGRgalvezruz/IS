@@ -1,5 +1,5 @@
 #### Cargar copias de seguridad
-**ID**:008  
+**ID**:007  
 **Breve descripción:**
 El sistema debe permitir al usuario cargar  desde un fichero las copias de seguridad del listado de los alumnos.
 
