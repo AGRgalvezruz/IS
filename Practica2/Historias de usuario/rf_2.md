@@ -1,9 +1,9 @@
 ## (ANVERSO)
-**ID**:002 **Visualizar alumnos**
+**ID**:002 **Visualizar alumno**
 
 ----
 
-El sistema debe permitir al usuario visualizar los datos de los alumnos.
+El sistema debe permitir al usuario visualizar los datos de un alumno.
 
 **Prioridad:** 5
 
