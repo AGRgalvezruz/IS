@@ -1,9 +1,9 @@
 ## (ANVERSO)
-**ID**:005 **Buscar Grupo**
+**ID**:006 **Eliminar alumno**
 
 ----
 
-El sistema debe permitir buscar todos los alumnos pertenecientes a un cierto grupo.
+El sistema debe permitir eliminar un alumno del listado.
 
 **Prioridad:** 5
 
@@ -13,8 +13,8 @@ El sistema debe permitir buscar todos los alumnos pertenecientes a un cierto gru
 
 ----
 
-* Se desea visualizar la información de todos los alumnos pertenecientes a un grupo.
+* Se buscará el alumno por DNI o apellido, en caso de varios con el mismo apellido aparecerán todos estos.
 
-* Los alumnos del grupo se podrán ordenar por DNI, Apellido o curso más alto matriculado.
+* Se seleccionará el alumno a eliminar y una vez confirmada la operación, éste desaparecerá del listado.
 
 ----

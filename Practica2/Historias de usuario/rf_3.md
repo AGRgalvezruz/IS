@@ -3,7 +3,7 @@
 
 ----
 
-El sistema debe permitir buscar alumnos por medio del DNI o del apellido.
+El sistema debe permitir buscar alumnos por medio del DNI, apellido o grupo.
 
 **Prioridad:** 5
 
@@ -13,7 +13,7 @@ El sistema debe permitir buscar alumnos por medio del DNI o del apellido.
 
 ----
 
-* Se desea visualizar la información el alumno registrado con dicho DNI o apellido.
+* Se desea visualizar la información el alumno registrado con dicho DNI,apellido o grupo.
 
 * En el caso de haber registrados varios alumnos con el mismo apellido, se podrá mostrar ordenar de forma ascendente o descendentemente.
 

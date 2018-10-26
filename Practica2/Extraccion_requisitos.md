@@ -105,7 +105,7 @@
 
 * **RF-5:** El sistema debe permitir eliminar un alumno tanto por DNI como por apellido
 
-* **RF-6:** Los campos obligatorios sobre la información de los contactos son todos menos equipo y si son líder o no
+* **RF-6:** El sistema debe poder insertar los datos de alumnos
 
 * **RF-7:** El sistema debe poder crear copias de seguridad, guardarlas y cargarlas
 
