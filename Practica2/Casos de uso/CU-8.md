@@ -1,25 +1,24 @@
-#### Cargar copias de seguridad
-**ID**:008  
+#### Buscar por grupo
+**ID**:009  
 **Breve descripción:**
-El sistema debe permitir al usuario cargar  desde un fichero las copias de seguridad del listado de los alumnos.
+El sistema debe permitir al usuario buscar alumnos por el grupo al que pertenecen.
 
 **Actores principales:** Usuario  
 **Actores secundarios:** Ninguno
 
 **Precondiciones:**
 
-1. Debe existir el fichero a cargar.
+1. Debe haber al menos un alumno registrado en el sistema.
 
 **Flujo principal:**
 
-1. El usuario elige la opción de cargar copia de seguridad.
-2. El sistema pide el nombre del fichero desde el cual cargar la información.
-3. El sistema elimina la información almacenada en ese hasta ese momento y carga la nueva almacenada en el fichero.
+1. El usuario elige la opción buscar por grupo.
+2. El sistema pide el número del grupo a buscar.
 
 **Postcondiciones:**
 
-* El sistema muestra los datos del alumno.
+* El sistema muestra los componentes del grupo.
 
 **Flujos alternativos:**
 
-3.a. Si no existe un fichero con dicho nombre se mostrará un mensaje de advertencia.
+2.a. Si no existe el grupo a buscar se mostrará un mensaje de advertencia.
