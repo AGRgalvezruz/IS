@@ -2,7 +2,7 @@
 
 ----
 ## Diagrama de clase
-!(https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Diagrama%20de%20clases%20de%20Agenda.jpg)
+![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Diagrama%20de%20clases%20de%20Agenda.jpg)
 
 ----
 ## Explicación
