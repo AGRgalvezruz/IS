@@ -8,7 +8,7 @@ Para poder ejecutar esta aplicación necesitaremos un sistema operativo Linux y 
 
 `sudo apt-get install g++`
 
-##Intrucciones
+## Intrucciones
 
 Para compilar el programa ejecutaremos el makefile en la terminal con
 
@@ -20,20 +20,20 @@ e iniciaremos el programa con
 
 tras esto solo quedará loguearse y empezar a utilizar la aplicación.
 
-##Características
+## Características
 
 Tras la ejecución el menú se verá de esta manera
 
-!(https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Menu.png)
+![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Menu.png)
 
-##Como obtenerlo
+## Como obtenerlo
 
 El código está alojado en un repositorio git en GitHub, utilice el siguiente comando para clonarlo:
 
 `git clone https://github.com/AGRgalvezruz/IS/tree/master/Practica4/agenda.git`
 
-##Autores
+## Autores
 
-Antonio López Rubias
+* Antonio López Rubias
 
-Antonio Gálvez Ruz
+* Antonio Gálvez Ruz
