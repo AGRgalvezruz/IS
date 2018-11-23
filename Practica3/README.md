@@ -24,7 +24,7 @@ tras esto solo quedará loguearse y empezar a utilizar la aplicación.
 
 Tras la ejecución el menú se verá de esta manera
 
-!(https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Menu.png)
+![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Menu.png)
 
 ##Como obtenerlo
 
