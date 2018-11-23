@@ -25,6 +25,6 @@ Para este proyecto se han contemplado tres clases:
 
 * En la case Agenda los metodos de insersión, edicion, eliminacion y diferentes comprobaciones para reaizar dichas operaciones.
 
-* En la clase Profesor tendremos los metodos para obtener dicha agenda y poder realizar copias de seguridad y cargar las mismas mediante ficheros.
+* En la clase Profesor tendremos los metodos para obtener dicha agenda y poder realizar copias de seguridad, cargar las mismas mediante ficheros y comprobaciones a la hora del logueo a la aplicación.
 
 ----
