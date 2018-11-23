@@ -1,4 +1,4 @@
-#### Login
+#### Iniciar Sesión
 **ID**:009  
 **Breve descripción:**
 El sistema debe permitir al usuario la opción de loguearse en el sistema.
