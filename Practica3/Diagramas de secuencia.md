@@ -55,10 +55,10 @@ En este diagrama se explican los pasos que se llevan a cabo al listar a los alum
 
 ![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Login.jpg)
 
-En este diagrama se explican los pasos que se llevan a cabo al listar a los alumnos en el sistema.
+En este diagrama se explican los pasos que se llevan a cabo al iniciar sesion en el sistema.
 
 * Registrarse:
 
 ![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Registrarse.jpg)
 
-En este diagrama se explican los pasos que se llevan a cabo al listar a los alumnos en el sistema.
+En este diagrama se explican los pasos que se llevan a cabo al registrarse en el sistema.
