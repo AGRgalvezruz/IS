@@ -26,7 +26,7 @@ Tras la ejecución el menú se verá de esta manera
 
 ![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Menu.png)
 
-##Como obtenerlo
+## Como obtenerlo
 
 El código está alojado en un repositorio git en GitHub, utilice el siguiente comando para clonarlo:
 
