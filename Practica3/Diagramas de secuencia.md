@@ -50,3 +50,15 @@ En este diagrama se explican los pasos que se llevan a cabo al eliminar un alumn
 ![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Listar%20alumnos.jpg)
 
 En este diagrama se explican los pasos que se llevan a cabo al listar a los alumnos en el sistema.
+
+* Iniciar sesión:
+
+![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Login.jpg)
+
+En este diagrama se explican los pasos que se llevan a cabo al listar a los alumnos en el sistema.
+
+* Registrarse:
+
+![](https://github.com/AGRgalvezruz/IS/blob/master/Practica3/Imagenes/Registrarse.jpg)
+
+En este diagrama se explican los pasos que se llevan a cabo al listar a los alumnos en el sistema.
