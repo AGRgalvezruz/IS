@@ -1,11 +1,11 @@
 ## (ANVERSO)
-**ID**:006 **Insertar Alumno**
+**ID**:006 **Guardar copias de seguridad**
 
 ----
 
-El sistema debe poder insertar los datos de alumnos.
+El sistema debe permitir al coordinador crear copias de seguridad del listado de los alumnos.
 
-**Prioridad:** 1
+**Prioridad:** 2
 
 ----
 
@@ -13,8 +13,8 @@ El sistema debe poder insertar los datos de alumnos.
 
 ----
 
-* Los campos obligatorios sobre la información de los contactos son todos menos equipo y si son líder o no
+* Se desea guardar en un fichero toda la información introducida con respecto a los alumnos.
 
-* No dejará introducir el alumno en el caso de haber un alumno con el mismo DNI o correo
+* La información de cada campo será insertada en el fichero separada por espacios.
 
 ----

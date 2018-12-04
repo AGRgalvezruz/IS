@@ -1,11 +1,11 @@
 ## (ANVERSO)
-**ID**:004 **Editar alumno**
+**ID**:004 **Eliminar alumno**
 
 ----
 
-El sistema debe permitir al usuario la opcion de editar un alumno.
+El sistema debe permitir eliminar un alumno del listado.
 
-**Prioridad:** 4
+**Prioridad:** 5
 
 ----
 
@@ -13,8 +13,8 @@ El sistema debe permitir al usuario la opcion de editar un alumno.
 
 ----
 
-* Se podrá modificar cualquier alumno y cada uno de sus campos.
+* Se buscará el alumno por DNI o apellido, en caso de varios con el mismo apellido aparecerán todos estos.
 
-* Si se modifica el campo DNI o correo y se introduce alguno ya existente, ese valor no podrá ser cambiado a éste.
+* Se seleccionará el alumno a eliminar y una vez confirmada la operación, éste desaparecerá del listado.
 
 ----

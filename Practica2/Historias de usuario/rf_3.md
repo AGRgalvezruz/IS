@@ -1,11 +1,11 @@
 ## (ANVERSO)
-**ID**:003 **Buscar Alumno**
+**ID**:003 **Editar alumno**
 
 ----
 
-El sistema debe permitir buscar alumnos por medio del DNI, apellido o grupo.
+El sistema debe permitir al usuario la opcion de editar un alumno.
 
-**Prioridad:** 5
+**Prioridad:** 4
 
 ----
 
@@ -13,10 +13,8 @@ El sistema debe permitir buscar alumnos por medio del DNI, apellido o grupo.
 
 ----
 
-* Se desea visualizar la información el alumno registrado con dicho DNI,apellido o grupo.
+* Se podrá modificar cualquier alumno y cada uno de sus campos.
 
-* En el caso de haber registrados varios alumnos con el mismo apellido, se podrá mostrar ordenar de forma ascendente o descendentemente.
-
-* En el caso de haber registrados varios alumnos con el mismo apellido, el listado se podrá ordenar por DNI, Apellido o curso más alto matriculado.
+* Si se modifica el campo DNI o correo y se introduce alguno ya existente, ese valor no podrá ser cambiado a éste.
 
 ----

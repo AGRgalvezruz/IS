@@ -1,11 +1,11 @@
 ## (ANVERSO)
-**ID**:006 **Eliminar alumno**
+**ID**:005 **Insertar Alumno**
 
 ----
 
-El sistema debe permitir eliminar un alumno del listado.
+El sistema debe poder insertar los datos de alumnos.
 
-**Prioridad:** 5
+**Prioridad:** 1
 
 ----
 
@@ -13,8 +13,8 @@ El sistema debe permitir eliminar un alumno del listado.
 
 ----
 
-* Se buscará el alumno por DNI o apellido, en caso de varios con el mismo apellido aparecerán todos estos.
+* Los campos obligatorios sobre la información de los contactos son todos menos equipo y si son líder o no
 
-* Se seleccionará el alumno a eliminar y una vez confirmada la operación, éste desaparecerá del listado.
+* No dejará introducir el alumno en el caso de haber un alumno con el mismo DNI o correo
 
 ----
