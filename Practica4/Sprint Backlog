@@ -1,0 +1,33 @@
+Sprint Backlog
+
+1ª Entrega
+	
+ID	Historias				Prioridad	Tiempo		Persona
+
+-	Login					0			20min		Galvez Ruz
+-	Registrarse				0			20min		Galvez Ruz
+	Isnertar Alumno			1			30min		López Rubias
+-	Guardar fichero			1			1h			López Rubias
+	Guardar copiasS			2			1h			López Rubias
+	Cargar copiasS			2			1h			Galvez Ruz
+-	Cargar  fichero 		2			1h			Galvez Ruz
+	Listar Alumnos			3			1h			López Rubias
+	Eliminar Alumno			3			40min		López Rubias
+	Funciones auxiliares    6			2h			Galvez Ruz, López Rubias
+	
+	Total								8h 50min
+
+
+
+2ª Entrega
+
+ID	Historias				Prioridad	Tiempo		Persona
+
+	mostrar resultado		3			2h			Galvez Ruz
+	Visualizar Alumno 		4			30min		López Rubias
+	Editar Alumnos 			4			2h			Galvez Ruz
+-	Buscar grupo			5			1h			López Rubias
+
+	Funciones auxiliares    6			4h			Galvez Ruz, López Rubias
+
+	Total								9h 30min

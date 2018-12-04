@@ -1,0 +1,21 @@
+Product Backlog
+
+ID	Historias				Prioridad	Tiempo
+
+9	Login					0			20min
+10	Registrarse				0			20min
+5	Isnertar Alumno			1			30min
+11	Guardar fichero			1			1h
+6	Guardar copiasS			2			1h
+7	CArgar copiasS			2			1h
+12	Cargar  fichero 		2			1h
+1	Listar Alumnos			3			1h
+4	Eliminar Alumno			3			40min
+8	mostrar resultado		3			2h
+2	Visualizar Alumno 		4			30min
+3	Editar Alumnos 			4			2h
+13	Buscar grupo			5			1h
+
+	Funciones auxiliares    6			5h
+
+	Total								16h 20min
