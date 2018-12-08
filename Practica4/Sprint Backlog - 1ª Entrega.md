@@ -72,8 +72,8 @@
 **Funciones auxiliares**
 
 * ID: -
-* Tiempo: 5 horas
+* Tiempo: 1 horas
 * Encargados: Gálvez Ruz, López Rubias
 
 ----
-## Tiempo total necesario: 8h y 50min
+## Tiempo total necesario: 7h y 50min

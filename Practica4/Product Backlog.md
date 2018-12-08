@@ -92,4 +92,4 @@
 * Tiempo: 5 horas
 
 ----
-## Tiempo total necesario: 16h y 20min
+## Tiempo total necesario: 17h y 20min
