@@ -1,0 +1,131 @@
+actores: profesores y alumnos
+
+funcionales que debe hacer el software
+no funcionales restricciones
+
+-datos del alumno: dni, nombre, apelidos, tlf, correo, direccion(calle), curso mas alto matriculado, fecha nacimiento, grupo de trabajo, es o no leader del grupo.
+
+-funcionar en plataforma linux
+
+busqueda de usuario (minimo) por dni o apellido
+
+se puede editar datos de alumno
+
+linea de comandos
+
+solo profesores usaran el software
+
+buscar por grupo
+
+no auto rellenado
+
+todo obligatorio menos grupo y leader para añadir
+
+se puede eliminar por dni o por apellido
+
+en caso de mismo apellido, aparecerá el listado y selecciona el que quieras
+
+inicia programa en el menu
+
+no tienen numero maximo de personas por grupo
+
+usabilidad
+
+guardar y cargar en un fichero de alumnos
+
+maximo 150 alumnos
+
+puede o no tener leader pero solo 1
+
+mismo DNI o mismo correo no se puede introducir
+
+mostrar listado de alumnos y poder ordenar por nombre, apellidos , dni o por curso mas alto matriculado, asc y desc
+
+se pueden mostar por ficheros markdown linea de comandos o html para imprimir todo
+
+
+
+[1] Listado de alumnos
+	[1] Listar por DNI
+		[1] Orden ascendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+		[2] Orden descendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+	[2] Listar por apellidos
+		[1] Orden ascendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+		[2] Orden descendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+[2] Añadir alumno
+
+[3] Buscar alumno
+	[1] Buscar por DNI
+		[1] Visualizar alumno
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+		[2] Editar alumno
+			[1] Nombre
+			[2] Apellidos
+			[3] Direccion
+			[4] Telefono
+			[5] Fecha nacimiento
+			[6] Curso
+			[8] Grupo
+			[9] Lider
+
+		[3] Eliminar alumno
+			[1] Si
+			[2] No
+
+	[2] Buscar por apellidos
+		[1] Visualizar alumno
+		[2] Editar alumno
+		[3] Eliminar alumno
+
+[4] Buscar grupo
+	[1] Listar por DNI
+		[1] Orden ascendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+		[2] Orden descendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+	[2] Listar por apellidos
+		[1] Orden ascendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+		[2] Orden descendente
+			[1] Terminal
+			[2] HTML
+			[3] Ambos
+
+[5] Copia de informacion
+	[1] Cargar informacion desde fichero
+	[2] Guardar informacion en un fichero
+
+g++ main.cpp mainAux.cpp profesor.cpp agenda.cpp 
+
+
+[6] Copia de seguridad
+	[1] Cargar copia de seguridad
+	[2] Guardar copia de seguridad

@@ -1,0 +1,3 @@
+Galvez,Antonio,32731194D,C\Don Quijote,677147821,19/08/1994,i52garua@uco.es,4,1,1
+Espinar Cortecero,Pascual,65724587W,C\Concilio de Nicea,646488104,1/1/1994,i52escop@uco.es,2,2,0
+Galvez,Jose Tomas,45721342R,C\No se donde,2957123,7/02/1995,i52deroj@uco.es,4,1,0
